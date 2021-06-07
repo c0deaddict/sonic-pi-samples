@@ -7,7 +7,7 @@ sleep 1
 sample :guit_e_slide
 sleep 1
 
-sample :drum_cymbol_closed
+sample :drum_cymbal_closed
 sleep 1
 
 2.times do
